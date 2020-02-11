@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TreviExam</string>
+    <string name="column">column</string>
+    <string name="row">row</string>
+    <string name="go">GO !</string>
+    <string name="error">Error</string>
+    <string name="input_invalid">Input invalid</string>
+    <string name="input_out_of_bound">Input out of bound</string>
+    <string name="ok">Ok</string>
+    <string name="confirm">confirm</string>
+</resources>
